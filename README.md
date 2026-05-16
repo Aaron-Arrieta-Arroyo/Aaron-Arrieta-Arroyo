@@ -1,41 +1,41 @@
-# 👋 Hola, soy Aarón Arrieta
+# 👋 Hi, I'm Aarón Arrieta
 
-**Estudiante de último año — Ingeniería en Informática (UNA)** · Desarrollador **Backend (.NET)** y **Mobile (Kotlin)** · QA en APIs REST  
-Universidad Nacional de Costa Rica — Campus Sarapiquí · *106 créditos aprobados*
+**Final-year Computer Science student (UNA)** · **Backend (.NET)** & **Mobile (Kotlin)** developer · REST API QA  
+National University of Costa Rica — Sarapiquí Campus · *106 credits completed*
 
 [![GitHub followers](https://img.shields.io/github/followers/Aaron-Arrieta-Arroyo?style=flat-square&logo=github)](https://github.com/Aaron-Arrieta-Arroyo)
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About me
 
-Desarrollo soluciones web y móviles con enfoque en **APIs REST**, **arquitectura por capas** y **calidad de software**.  
-Trabajo con **PHP (Laravel)**, **.NET**, **Kotlin**, **Spring Boot** y **Python**, además de administración de bases de datos (**PostgreSQL**, **Azure**) y apoyo en **análisis de requerimientos** e **interfaces (UI/UX)**.
+I build web and mobile solutions focused on **REST APIs**, **layered architecture**, and **software quality**.  
+I work with **PHP (Laravel)**, **.NET**, **Kotlin**, **Spring Boot**, and **Python**, plus database administration (**PostgreSQL**, **Azure**) and support for **requirements analysis** and **UI/UX**.
 
-En GitHub destaco sobre todo dos proyectos donde he entregado de forma constante:
+On GitHub, my strongest track record is in two projects where I ship consistently:
 
-- 🎮 **[LevelUpLife](https://github.com/jasonTIZ/LevelUpLife-Backend)** — API gamificada (.NET 9, PostgreSQL): infra HTTP, errores globales, endpoints de jugador, **Create Habit Task**, QA de PRs del equipo.  
-- 🌾 **[Ciclo Finca 4](https://github.com/Darwin-Nunez-10/Ciclo_Finca_4_App)** — plataforma comercial (Laravel/PHP): **30+ PRs mergeados** (carrito, catálogo, reportes, auditoría, CI).
+- 🎮 **[LevelUpLife](https://github.com/jasonTIZ/LevelUpLife-Backend)** — Gamified habits API (.NET 9, PostgreSQL): HTTP infrastructure, global errors, player endpoints, **Create Habit Task**, team PR QA.  
+- 🌾 **[Ciclo Finca 4](https://github.com/Darwin-Nunez-10/Ciclo_Finca_4_App)** — Commercial platform (Laravel/PHP): **30+ merged PRs** (cart, catalog, reports, audit, CI).
 
-También participo en **UNA Móviles** (Kotlin / .NET) y colaboraciones académicas. Me caracterizo por **aprender herramientas nuevas rápido** y aplicarlas al ritmo del equipo.
+I also contribute to **UNA Mobile** (Kotlin / .NET) and academic collaborations. I pick up **new tools quickly** and apply them at the team’s pace.
 
-- 🔭 Actualmente: **LevelUpLife** + **Ciclo Finca 4** + proyectos UNA  
-- 🌱 Aprendiendo: patrones en APIs, testing automatizado y buenas prácticas ágiles  
+- 🔭 Currently: **LevelUpLife** + **Ciclo Finca 4** + UNA projects  
+- 🌱 Learning: API design patterns, automated testing, and agile best practices  
 - 📫 GitHub: [@Aaron-Arrieta-Arroyo](https://github.com/Aaron-Arrieta-Arroyo)
 
 <details>
-<summary><b>💼 Liderazgo y habilidades blandas</b> (resumen)</summary>
+<summary><b>💼 Leadership & soft skills</b> (summary)</summary>
 
-- **Coordinación deportiva (Voleibol, UNA):** liderazgo de grupos, logística en jornadas largas, trabajo bajo presión.  
-- **Atención al cliente (negocios locales):** comunicación asertiva y resolución de conflictos en entornos de alta demanda.  
+- **Sports coordination (Volleyball, UNA):** group leadership, long-event logistics, working under pressure.  
+- **Customer service (local businesses):** assertive communication and conflict resolution in high-demand environments.  
 
-*Detalle completo en CV / LinkedIn; aquí priorizo lo técnico para reclutadores y equipos dev.*
+*Full details on my CV / LinkedIn; here I prioritize technical content for recruiters and dev teams.*
 
 </details>
 
 ---
 
-## 📊 Actividad en GitHub
+## 📊 GitHub activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaron-Arrieta-Arroyo&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
@@ -45,11 +45,11 @@ También participo en **UNA Móviles** (Kotlin / .NET) y colaboraciones académi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaron-Arrieta-Arroyo&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
 </p>
 
-> *Gran parte de mi trabajo está en repos de equipo/organización (LevelUpLife, Ciclo Finca, UNA). Por eso las tarjetas de “stats” del perfil personal a veces no muestran datos.*
+> *Most of my work lives in team/organization repos (LevelUpLife, Ciclo Finca, UNA). Personal profile “stats” cards may show limited data for that reason.*
 
 ---
 
-## 🛠️ Stack tecnológico
+## 🛠️ Tech stack
 
 ### Backend
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
@@ -72,7 +72,7 @@ También participo en **UNA Móviles** (Kotlin / .NET) y colaboraciones académi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-### Herramientas & prácticas
+### Tools & practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -82,75 +82,75 @@ También participo en **UNA Móviles** (Kotlin / .NET) y colaboraciones académi
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured projects
 
 ### 🎮 [LevelUpLife — Backend](https://github.com/jasonTIZ/LevelUpLife-Backend)
-API gamificada de hábitos y tareas (.NET 9, PostgreSQL, JWT).
+Gamified habits and tasks API (.NET 9, PostgreSQL, JWT).
 
-**Contribuciones (PRs mergeados):**
-- Infraestructura HTTP base (`BaseApiClient`, interceptors, manejo de sesión)
-- Manejo global de errores API (`ErrorResponse`, `ApiErrorParser`, tests xUnit)
-- Endpoints de jugador: actualización de perfil (ETag), soft delete de cuenta
+**Contributions (merged PRs):**
+- Base HTTP infrastructure (`BaseApiClient`, interceptors, session handling)
+- Global API error handling (`ErrorResponse`, `ApiErrorParser`, xUnit tests)
+- Player endpoints: profile update (ETag), account soft delete
 - **Create Habit Task** — `POST /api/habit-tasks` (issue #26)
-- QA y revisión de PRs del equipo (habits, repetition criteria, disciplines)
+- QA and review of team PRs (habits, repetition criteria, disciplines)
 
 `C#` · `ASP.NET Core` · `EF Core` · `PostgreSQL` · `Scalar`
 
 ---
 
 ### 📱 [LevelUpLife — Frontend](https://github.com/jasonTIZ/LevelUpLife-Frontend)
-Cliente móvil en **Kotlin** (desarrollo activo del equipo).
+Mobile client in **Kotlin** (active team development).
 
-**Rol:** integración con API, flujos de hábitos/tareas, QA funcional.
+**Role:** API integration, habit/task flows, functional QA.
 
 `Kotlin` · `Jetpack Compose` · `Android`
 
 ---
 
 ### 🌾 [Ciclo Finca 4 — App](https://github.com/Darwin-Nunez-10/Ciclo_Finca_4_App)
-Sistema de gestión comercial (catálogo, pedidos, inventario, reportes).
+Commercial management system (catalog, orders, inventory, reports).
 
-**Contribuciones destacadas (30+ PRs mergeados):**
-- Carrito de compras end-to-end
-- Clasificaciones, subcategorías y catálogo
-- Reportes de ventas, facturación, auditoría
-- Notificaciones y cancelación automática de pedidos
-- Fixes de CI (PHPStan, tests)
+**Key contributions (30+ merged PRs):**
+- End-to-end shopping cart
+- Classifications, subcategories, and catalog
+- Sales reports, invoicing, audit logs
+- Notifications and automatic order cancellation
+- CI fixes (PHPStan, tests)
 
 `PHP` · `Laravel` · `MySQL/PostgreSQL` · `PHPUnit`
 
 ---
 
 ### 🏠 [Apartment Network](https://github.com/AdamAG124/ApartmentNetwork)
-Plataforma web académica (Paradigmas de Programación — UNA).
+Academic web platform (Programming Paradigms — UNA).
 
-**Contribuciones:**
-- Login y vistas de cliente
-- CRUD y desactivación lógica de entidades
-- Algoritmos de búsqueda y recomendaciones
+**Contributions:**
+- Login and client views
+- CRUD and logical deactivation of entities
+- Search and recommendation algorithms
 
 `PHP` · `MVC`
 
 ---
 
-### 🎓 UNA — Móviles & .NET (GitHub Classroom)
+### 🎓 UNA — Mobile & .NET (GitHub Classroom)
 
-| Repositorio | Enfoque |
-|-------------|---------|
-| [android-intro-and-ui-with-jetpack-compose](https://github.com/UNAMoviles2026/android-intro-and-ui-with-jetpack-compose-Aaron-Arrieta-Arroyo) | UI con Compose, login, navegación |
-| [examen-1-moviles-2026](https://github.com/UNAMoviles2026/examen-1-moviles-2026-Aaron-Arrieta-Arroyo) | App coworking — examen integrador |
-| [net-backend-reservations-api](https://github.com/UNAMoviles2026/net-backend-Aaron-Arrieta-Arroyo) | API de reservas — CRUD y consultas por fecha |
+| Repository | Focus |
+|------------|--------|
+| [android-intro-and-ui-with-jetpack-compose](https://github.com/UNAMoviles2026/android-intro-and-ui-with-jetpack-compose-Aaron-Arrieta-Arroyo) | Compose UI, login, navigation |
+| [examen-1-moviles-2026](https://github.com/UNAMoviles2026/examen-1-moviles-2026-Aaron-Arrieta-Arroyo) | Coworking app — integrative exam |
+| [net-backend-reservations-api](https://github.com/UNAMoviles2026/net-backend-Aaron-Arrieta-Arroyo) | Reservations API — CRUD and date queries |
 
 `Kotlin` · `C#` · `ASP.NET Core`
 
 ---
 
-## 🤝 Conectemos
+## 🤝 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aaron--Arrieta--Arroyo-181717?style=for-the-badge&logo=github)](https://github.com/Aaron-Arrieta-Arroyo)
 
 ---
 
 <p align="center">
-  <i>“Construyendo software que funciona en equipo y en producción.”</i>
+  <i>“Building software that works in teams and in production.”</i>
 </p>
