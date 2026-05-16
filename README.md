@@ -1,7 +1,7 @@
 # 👋 Hola, soy Aarón Arrieta
 
-**Estudiante de Ingeniería en Sistemas** · Desarrollador **Backend (.NET)** y **Mobile (Kotlin)** · QA en APIs REST  
-Universidad Nacional de Costa Rica — Campus Sarapiquí
+**Estudiante de último año — Ingeniería en Informática (UNA)** · Desarrollador **Backend (.NET)** y **Mobile (Kotlin)** · QA en APIs REST  
+Universidad Nacional de Costa Rica — Campus Sarapiquí · *106 créditos aprobados*
 
 [![GitHub followers](https://img.shields.io/github/followers/Aaron-Arrieta-Arroyo?style=flat-square&logo=github)](https://github.com/Aaron-Arrieta-Arroyo)
 
@@ -10,12 +10,28 @@ Universidad Nacional de Costa Rica — Campus Sarapiquí
 ## 🧑‍💻 Sobre mí
 
 Desarrollo soluciones web y móviles con enfoque en **APIs REST**, **arquitectura por capas** y **calidad de software**.  
-He contribuido en proyectos académicos y colaborativos con **pull requests mergeados**, pruebas manuales (Scalar/curl), resolución de conflictos y documentación de hallazgos de QA.
+Trabajo con **PHP (Laravel)**, **.NET**, **Kotlin**, **Spring Boot** y **Python**, además de administración de bases de datos (**PostgreSQL**, **Azure**) y apoyo en **análisis de requerimientos** e **interfaces (UI/UX)**.
 
-- 🔭 Actualmente: **LevelUpLife** (backend .NET + frontend Kotlin) y proyectos UNA Móviles  
-- 🌱 Aprendiendo: patrones de diseño en APIs, testing automatizado y buenas prácticas en equipos ágiles  
-- 💬 Pregúntame sobre: C#, ASP.NET Core, PostgreSQL, Jetpack Compose, Git/GitHub  
+En GitHub destaco sobre todo dos proyectos donde he entregado de forma constante:
+
+- 🎮 **[LevelUpLife](https://github.com/jasonTIZ/LevelUpLife-Backend)** — API gamificada (.NET 9, PostgreSQL): infra HTTP, errores globales, endpoints de jugador, **Create Habit Task**, QA de PRs del equipo.  
+- 🌾 **[Ciclo Finca 4](https://github.com/Darwin-Nunez-10/Ciclo_Finca_4_App)** — plataforma comercial (Laravel/PHP): **30+ PRs mergeados** (carrito, catálogo, reportes, auditoría, CI).
+
+También participo en **UNA Móviles** (Kotlin / .NET) y colaboraciones académicas. Me caracterizo por **aprender herramientas nuevas rápido** y aplicarlas al ritmo del equipo.
+
+- 🔭 Actualmente: **LevelUpLife** + **Ciclo Finca 4** + proyectos UNA  
+- 🌱 Aprendiendo: patrones en APIs, testing automatizado y buenas prácticas ágiles  
 - 📫 GitHub: [@Aaron-Arrieta-Arroyo](https://github.com/Aaron-Arrieta-Arroyo)
+
+<details>
+<summary><b>💼 Liderazgo y habilidades blandas</b> (resumen)</summary>
+
+- **Coordinación deportiva (Voleibol, UNA):** liderazgo de grupos, logística en jornadas largas, trabajo bajo presión.  
+- **Atención al cliente (negocios locales):** comunicación asertiva y resolución de conflictos en entornos de alta demanda.  
+
+*Detalle completo en CV / LinkedIn; aquí priorizo lo técnico para reclutadores y equipos dev.*
+
+</details>
 
 ---
 
@@ -49,9 +65,12 @@ He contribuido en proyectos académicos y colaborativos con **pull requests merg
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 
-### Web (colaboraciones)
+### Web & backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ### Herramientas & prácticas
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
