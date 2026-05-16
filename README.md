@@ -11,10 +11,6 @@
 
 <br/>
 
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC0PfvynfiEp/giphy.gif" width="320" alt="Coding animation" />
-</p>
-
 - 🌱 I'm currently learning **API design patterns**, **automated testing**, and **mobile/backend** best practices  
 - 🔭 Focused on **LevelUpLife** (.NET + Kotlin) and **Ciclo Finca 4** (Laravel/PHP)  
 - 📫 How to reach me: **[GitHub](https://github.com/Aaron-Arrieta-Arroyo)** · *(add your email or LinkedIn URL below in Connect)*  
@@ -79,7 +75,7 @@ I also contribute to **UNA Mobile** (Kotlin / .NET) and academic collaborations.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" />
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
@@ -134,27 +130,13 @@ Commercial platform · **30+ merged PRs** (cart, catalog, reports, audit, CI).
 
 <br/>
 
-<h3>Statistical data :-</h3>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Arrieta-Arroyo&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" alt="Top languages" /></p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaron-Arrieta-Arroyo&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="GitHub stats" />
-</p>
-
-<br/>
+<h3>GitHub streak :-</h3>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaron-Arrieta-Arroyo&theme=dark&background=0d1117&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaron-Arrieta-Arroyo&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Contribution graph" />
-</p>
-
-> *Most contributions are in organization/team repos (LevelUpLife, Ciclo Finca, UNA). Stats on this profile may look lower than my actual activity.*
+> *Most of my code is in team/organization repos (LevelUpLife, Ciclo Finca, UNA), so personal repo stats cards are not shown here.*
 
 <br/>
 
