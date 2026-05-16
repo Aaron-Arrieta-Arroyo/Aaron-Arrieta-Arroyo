@@ -11,132 +11,134 @@
 
 <br/>
 
-- 🌱 I'm currently learning **API design patterns**, **automated testing**, and **mobile/backend** best practices  
-- 🔭 Focused on **LevelUpLife** (.NET + Kotlin) and **Ciclo Finca 4** (Laravel/PHP)  
-- 📫 How to reach me: **[GitHub](https://github.com/Aaron-Arrieta-Arroyo)** · *(add your email or LinkedIn URL below in Connect)*  
-- ⚡ Fun fact: **Volleyball**, good food, and music 🎵 keep me going — and I learn new dev tools fast when the team needs them  
-
-<br/>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://github.com/Aaron-Arrieta-Arroyo" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Aaron-Arrieta-Arroyo" height="30" width="40" />
-  </a>
-  <!-- Replace # with your LinkedIn URL when ready -->
-  <a href="https://www.linkedin.com/in/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
-<br/>
-
 ---
 
 ## 🧑‍💻 About me
 
-I build web and mobile solutions focused on **REST APIs**, **layered architecture**, and **software quality**.  
-I work with **PHP (Laravel)**, **.NET**, **Kotlin**, **Spring Boot**, and **Python**, plus database administration (**PostgreSQL**, **Azure**) and support for **requirements analysis** and **UI/UX**.
+<img align="right" alt="Developer illustration" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/Code.gif" />
 
-On GitHub, my strongest track record is in two projects where I ship consistently:
+<h3 align="left">Who I am</h3>
 
-- 🎮 **[LevelUpLife](https://github.com/jasonTIZ/LevelUpLife-Backend)** — Gamified habits API (.NET 9, PostgreSQL): HTTP infrastructure, global errors, player endpoints, **Create Habit Task**, team PR QA.  
-- 🌾 **[Ciclo Finca 4](https://github.com/Darwin-Nunez-10/Ciclo_Finca_4_App)** — Commercial platform (Laravel/PHP): **30+ merged PRs** (cart, catalog, reports, audit, CI).
+<p align="left">
+I build <b>web and mobile</b> solutions focused on <b>REST APIs</b>, <b>layered architecture</b>, and <b>software quality</b>.<br/>
+I work with <b>PHP (Laravel)</b>, <b>.NET</b>, <b>Kotlin</b>, <b>Spring Boot</b>, and <b>Python</b>, plus <b>PostgreSQL</b>, <b>Azure</b>, <b>requirements analysis</b>, and <b>UI/UX</b> support.
+</p>
 
-I also contribute to **UNA Mobile** (Kotlin / .NET) and academic collaborations.
+<h3 align="left">Main projects on GitHub</h3>
 
-<details>
-<summary><b>💼 Leadership & soft skills</b> (summary)</summary>
+<p align="left">
+🎮 <b><a href="https://github.com/jasonTIZ/LevelUpLife-Backend">LevelUpLife</a></b> — Gamified habits API (.NET 9, PostgreSQL): HTTP infrastructure, global errors, player endpoints, <b>Create Habit Task</b>, team PR QA.<br/><br/>
+🌾 <b><a href="https://github.com/Darwin-Nunez-10/Ciclo_Finca_4_App">Ciclo Finca 4</a></b> — Commercial platform (Laravel/PHP): <b>30+ merged PRs</b> (cart, catalog, reports, audit, CI).<br/><br/>
+🎓 I also contribute to <b>UNA Mobile</b> (Kotlin / .NET) and other academic collaborations.
+</p>
 
-- **Sports coordination (Volleyball, UNA):** group leadership, long-event logistics, working under pressure.  
-- **Customer service (local businesses):** assertive communication and conflict resolution in high-demand environments.  
+<h3 align="left">Currently</h3>
 
-*Full details on my CV / LinkedIn.*
+<p align="left">
+🌱 Learning <b>API design patterns</b>, <b>automated testing</b>, and <b>mobile/backend</b> best practices<br/>
+🔭 Focused on <b>LevelUpLife</b> + <b>Ciclo Finca 4</b> + UNA projects<br/>
+📫 Reach me on <b><a href="https://github.com/Aaron-Arrieta-Arroyo">GitHub</a></b> (add your email / LinkedIn in Connect below)<br/>
+⚡ Fun fact: <b>Volleyball</b>, good food, and music 🎵 — I pick up new dev tools fast when the team needs them
+</p>
 
-</details>
+<h3 align="left">💼 Leadership & soft skills</h3>
+
+<p align="left">
+🏐 <b>Sports coordination (Volleyball, UNA):</b> group leadership, logistics on long event days, working under pressure.<br/><br/>
+🤝 <b>Customer service (local businesses):</b> assertive communication and conflict resolution in high-demand environments.
+</p>
+
+<br clear="right"/>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://github.com/Aaron-Arrieta-Arroyo" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="36" width="44" />
+  </a>
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="36" width="44" />
+  </a>
+</p>
 
 <br/>
 
-<h3 align="left">Languages and tools:</h3>
+---
+
+<h2 align="left">🛠️ Languages and tools</h2>
+
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="48" height="48" />
   </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="48" height="48" />
   </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="48" height="48" />
   </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="48" height="48" />
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="48" height="48" />
   </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="48" height="48" />
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="48" height="48" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48" />
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="48" height="48" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="48" height="48" />
   </a>
   <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="48" height="48" />
   </a>
 </p>
 
 <br/>
 
-## 🚀 Featured projects
-
-### 🎮 [LevelUpLife — Backend](https://github.com/jasonTIZ/LevelUpLife-Backend)
-Gamified habits and tasks API (.NET 9, PostgreSQL, JWT).
-
-**Contributions (merged PRs):**
-- Base HTTP infrastructure (`BaseApiClient`, interceptors, session handling)
-- Global API error handling (`ErrorResponse`, `ApiErrorParser`, xUnit tests)
-- Player endpoints: profile update (ETag), account soft delete
-- **Create Habit Task** — `POST /api/habit-tasks` (issue #26)
-- QA and review of team PRs (habits, repetition criteria, disciplines)
-
 ---
 
-### 📱 [LevelUpLife — Frontend](https://github.com/jasonTIZ/LevelUpLife-Frontend)
-Mobile client in **Kotlin** · API integration, habit/task flows, functional QA.
+<h2 align="left">🚀 Featured projects</h2>
 
----
+<h3 align="left">🎮 <a href="https://github.com/jasonTIZ/LevelUpLife-Backend">LevelUpLife — Backend</a></h3>
+<p align="left">
+Gamified habits and tasks API (.NET 9, PostgreSQL, JWT).<br/>
+<b>Merged PRs:</b> HTTP infrastructure, global API errors, player profile & soft delete, <b>Create Habit Task</b>, team PR QA.
+</p>
 
-### 🌾 [Ciclo Finca 4 — App](https://github.com/Darwin-Nunez-10/Ciclo_Finca_4_App)
-Commercial platform · **30+ merged PRs** (cart, catalog, reports, audit, CI).
+<h3 align="left">📱 <a href="https://github.com/jasonTIZ/LevelUpLife-Frontend">LevelUpLife — Frontend</a></h3>
+<p align="left">Mobile client in Kotlin · API integration, habit/task flows, functional QA.</p>
 
----
+<h3 align="left">🌾 <a href="https://github.com/Darwin-Nunez-10/Ciclo_Finca_4_App">Ciclo Finca 4 — App</a></h3>
+<p align="left">Commercial platform · <b>30+ merged PRs</b> (cart, catalog, reports, audit, CI).</p>
 
-### 🏠 [Apartment Network](https://github.com/AdamAG124/ApartmentNetwork) · 🎓 [UNA Mobile & .NET labs](https://github.com/UNAMoviles2026)
+<h3 align="left">🏠 <a href="https://github.com/AdamAG124/ApartmentNetwork">Apartment Network</a> · 🎓 <a href="https://github.com/UNAMoviles2026">UNA Mobile & .NET labs</a></h3>
 
 <br/>
 
-<h3>GitHub streak :-</h3>
+---
+
+## 🐍 A Snake Eating my Contributions Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaron-Arrieta-Arroyo&theme=dark&background=0d1117&hide_border=true" alt="GitHub streak" />
+  <img src="https://github.com/Aaron-Arrieta-Arroyo/Aaron-Arrieta-Arroyo/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>
-
-> *Most of my code is in team/organization repos (LevelUpLife, Ciclo Finca, UNA), so personal repo stats cards are not shown here.*
 
 <br/>
 
@@ -145,10 +147,9 @@ Commercial platform · **30+ merged PRs** (cart, catalog, reports, audit, CI).
 </p>
 
 <p align="center">
-  <i>“Building software that works in teams and in production.”</i>
+  <i><b>“Building software that works in teams and in production.”</b></i>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aaron-Arrieta-Arroyo">Aaron-Arrieta-Arroyo</a>
+  <a href="https://github.com/Aaron-Arrieta-Arroyo"><b>Aaron-Arrieta-Arroyo</b></a>
 </p>
- 
