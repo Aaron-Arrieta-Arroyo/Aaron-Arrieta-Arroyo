@@ -4,7 +4,6 @@
 Universidad Nacional de Costa Rica — Campus Sarapiquí
 
 [![GitHub followers](https://img.shields.io/github/followers/Aaron-Arrieta-Arroyo?style=flat-square&logo=github)](https://github.com/Aaron-Arrieta-Arroyo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aaron-arrieta-arroyo)
 
 ---
 
@@ -20,18 +19,17 @@ He contribuido en proyectos académicos y colaborativos con **pull requests merg
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaron-Arrieta-Arroyo&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Arrieta-Arroyo&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
-</p>
+## 📊 Actividad en GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaron-Arrieta-Arroyo&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
 
-> *Parte de la actividad puede estar en repos privados o de organización (contribuciones restringidas en el perfil).*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaron-Arrieta-Arroyo&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
+</p>
+
+> *Gran parte de mi trabajo está en repos de equipo/organización (LevelUpLife, Ciclo Finca, UNA). Por eso las tarjetas de “stats” del perfil personal a veces no muestran datos.*
 
 ---
 
@@ -82,7 +80,7 @@ API gamificada de hábitos y tareas (.NET 9, PostgreSQL, JWT).
 ---
 
 ### 📱 [LevelUpLife — Frontend](https://github.com/jasonTIZ/LevelUpLife-Frontend)
-Cliente móvil en **Kotlin** (en desarrollo activo del equipo).
+Cliente móvil en **Kotlin** (desarrollo activo del equipo).
 
 **Rol:** integración con API, flujos de hábitos/tareas, QA funcional.
 
@@ -128,36 +126,11 @@ Plataforma web académica (Paradigmas de Programación — UNA).
 
 ---
 
-## 🏆 Highlights
-
-```text
-✓ 31+ Pull Requests mergeados en repos colaborativos
-✓ 150+ commits de contribución en GitHub
-✓ Experiencia en QA manual de APIs (200/400/404/409/500)
-✓ Resolución de conflictos de merge y alineación con dev
-✓ Trabajo en equipo con Git Flow, code review y issues en GitHub Projects
-```
-
----
-
-## 📈 Actividad reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-*Opcional: activa el workflow [github-readme-activity-graph](https://github.com/Aaron-Arrieta-Arroyo/Aaron-Arrieta-Arroyo) para mostrar commits recientes aquí.*
-
----
-
 ## 🤝 Conectemos
 
 [![GitHub](https://img.shields.io/badge/GitHub-Aaron--Arrieta--Arroyo-181717?style=for-the-badge&logo=github)](https://github.com/Aaron-Arrieta-Arroyo)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aaron-Arrieta-Arroyo&color=blueviolet&style=flat-square" alt="Profile views"/>
-</p>
 
 <p align="center">
   <i>“Construyendo software que funciona en equipo y en producción.”</i>
