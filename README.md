@@ -61,6 +61,14 @@ off-screen → volleyball, good food, music
 
 <br/>
 
+<!-- ───────────────────────────────  COURSES  ─────────────────────────────── -->
+
+### `~/courses`
+
+Completed on **Anthropic Academy** — working with AI agents in real development workflows:
+
+`Claude Code in Action` · `Claude Code 101` · `Introduction to Claude Cowork` · `AI Fluency: Framework & Foundations` · `Claude 101`
+
 <!-- ───────────────────────────────  STACK  ─────────────────────────────── -->
 
 ### `~/stack`
