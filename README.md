@@ -57,7 +57,6 @@ off-screen → volleyball, good food, music
 | **[LevelUpLife](https://github.com/jasonTIZ/LevelUpLife-Backend)** | Gamified habits & tasks platform — API infrastructure, global error handling, player endpoints, *Create Habit Task*, code reviews. Mobile client in **[Kotlin](https://github.com/jasonTIZ/LevelUpLife-Frontend)**. | .NET 9 · PostgreSQL · JWT · Kotlin |
 | **[Ciclo Finca 4](https://github.com/Darwin-Nunez-10/Ciclo_Finca_4_App)** | Academic team project — commerce platform for a cycling shop: cart, catalog, reports, audit log, CI. | Laravel · React · MySQL |
 | **SafeZone** | Territorial-risk & geolocation platform for citizen safety (web + mobile). Contracts → API → Web, QA tickets per repo. | Web · Mobile · REST |
-| **[Apartment Network](https://github.com/AdamAG124/ApartmentNetwork)** | Team project — apartment network management. | — |
 | **[UNA Mobile & .NET labs](https://github.com/UNAMoviles2026)** | Mobile and backend labs. | Kotlin · .NET |
 
 <br/>
