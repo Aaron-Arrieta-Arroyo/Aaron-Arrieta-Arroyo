@@ -11,8 +11,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/aar%C3%B3n-arrieta-arroyo-340951309/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=EDEDED" alt="LinkedIn" /></a>
   <a href="mailto:arrietaaaron0325@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=EDEDED" alt="Email" /></a>
-  <!-- Cuando el portafolio esté publicado, reemplazar TU-DOMINIO -->
-  <!-- <a href="https://TU-DOMINIO"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=EDEDED" alt="Portfolio" /></a> -->
+  <a href="https://aaron-arrieta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=E9A15B" alt="Portfolio" /></a>
   <img src="https://img.shields.io/badge/Costa%20Rica-0A0A0A?style=flat-square&logo=googlemaps&logoColor=E9A15B" alt="Costa Rica" />
 </p>
 
