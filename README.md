@@ -42,7 +42,7 @@ off-screen → volleyball, good food, music
 
 ### `~/experience`
 
-**Software Developer · ParallelDevs** &nbsp;<sub>2026 — present · remote</sub>
+**Software Developer** &nbsp;<sub>2026 — present · remote</sub>
 - Led a **Drupal 10.4 → 11 core upgrade** on a production site hosted on Pantheon (PHP 8.3, Drush, Lando, Composer), including compatibility analysis of contrib modules and a data-fix script.
 - Building theme components with **Single Directory Components (SDC)** organized by **atomic design**.
 - Developing and maintaining **institutional microsites** in Drupal for a public-sector client.
