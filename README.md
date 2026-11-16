@@ -26,7 +26,7 @@ Software developer with a **B.Sc. in Information Systems Engineering** (Universi
 I build **backend services, web platforms and mobile apps** — REST APIs, layered architecture and the
 unglamorous parts that keep software alive in production: migrations, QA, CI and documentation.
 
-Day to day I work on **Drupal 10/11** sites for public- and private-sector clients at **ParallelDevs**,
+Day to day I work on **Drupal 10/11** sites for public- and private-sector
 and outside of that I ship with **.NET, Laravel, Spring Boot and Kotlin**.
 
 ```txt
